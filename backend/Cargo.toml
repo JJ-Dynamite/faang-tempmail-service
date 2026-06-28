@@ -1,11 +1,11 @@
 [package]
-name = "tempmail-service-backend"
+name = "faang-tempmail-service-backend"
 version = "0.1.0"
 edition = "2021"
 description = "One-click temporary email - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/tempmail-service"
+repository = "https://github.com/JJ-Dynamite/faang-tempmail-service"
 
 [dependencies]
 axum = "0.7"
