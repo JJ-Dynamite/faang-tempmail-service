@@ -1,6 +1,6 @@
 # One-click temporary email
 
-[![CI](https://github.com/JJ-Dynamite/faang-tempmail-service/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-tempmail-service/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/tempmailservice/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/tempmailservice/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > One-click temporary email - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/faang-tempmail-service.git
+git clone https://github.com/JJ-Dynamite/tempmailservice.git
 cd tempmail-service
 
 # Install backend dependencies

@@ -1,4 +1,4 @@
-# Contributing to faang-tempmail-service
+# Contributing to tempmailservice
 
 Thank you for your interest in contributing!
 
